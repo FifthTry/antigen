@@ -1,0 +1,5 @@
+-- fbt:
+cmd: $FBT_CWD/../target/debug/antigen --test
+
+
+-- stdout:

@@ -1,0 +1,8 @@
+[package]
+name = "antigen-cli"
+version = "0.1.0"
+authors = ["Amit Upadhyay <upadhyay@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+antigen = { path = "../antigen" }
